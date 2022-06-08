@@ -9,6 +9,8 @@ username - root
 password - ''
 database name - librarymanagement
 
+sample admin- email=test@gmail.com
+               password=test
 
 #### Our project is a fully fledged website based library management system.
 #### It has the following general functionalities
